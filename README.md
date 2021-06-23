@@ -1,11 +1,11 @@
-<h1 align="centre">DAISYXMUSIC V4.0 🎵</h1>
+<h1 align="centre">KYY MUSIC V2🎵</h1>
 
 ### A bot that can play music on Telegram Group and Channel Voice Chats
 #### POWERED BY [PYTGCALLS](https://github.com/pytgcalls/pytgcalls)
-### Available on telegram as [@DaisyXbot](https://t.me/daisyxbot)
+### Available on telegram as [KYYMUSIC](https://t.me/kyymusicassistant)
 
 <p align="center">
-  <img src="https://telegra.ph/file/dd04b1968f1bc1169d162.jpg">
+  <img src="https://telegra.ph/file/aa0f75f4d4b6519ccd19e.jpg">
 </p>
 
 <h2> Features 🔥 </h2>
@@ -29,20 +29,6 @@
 
 Get pyrogram (p)  `SESSION` from here:
 [![Run on Repl.it](https://repl.it/badge/github/SpEcHiDe/GenerateStringSession)](https://repl.it/@SpEcHiDe/GenerateStringSession)
-
-### ⚔ Self-hosting (For Devs) 
-```sh
-# Install Git First (apt-instll git)
-$ git clone https://github.com/TeamDaisyX/DaisyXmusic
-$ cd DaisyXMusic
-# Upgrade sources
-# Install All Requirements 
-$ pip(3) install -r requirements.txt
-# Rename example.env to local.env and fill
-$ npm i -g npm
-# Start Bot 
-$ python(3) -m DaisyXMusic
-```
 
 ### Commands for Group 🛠
 #### For all in group
