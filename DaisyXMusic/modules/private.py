@@ -36,7 +36,10 @@ def _start(client, message):
                         "📲 Updates", url=f"https://t.me/kyymusicsupport"), 
                     InlineKeyboardButton(
                         "💬 Support", url=f"https://t.me/kyymusicsupport")
-                ],[
+                [
+                    InlineKeyboardButton(
+                        "⚡ OWNER", url=f"https://t.me/{sokapgblg}"
+                 ],[
 
                 ]
             ]
